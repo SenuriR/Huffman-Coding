@@ -1,5 +1,5 @@
 # Huffman-Coding
-[CS112 - Data Structures] Compresses data files using Huffman Coding
+[CS112 - Data Structures] Compress data files using Huffman Coding
 
 OVERVIEW OF FILES:
 CharFreq class, which houses a Character object “character” representing a certain ASCII character, and a double “probOcc” representing its probability of occurrence (value between 0 and 1 showing its frequency). These objects are implemented to compare primarily by probOcc, then by character if those are equal. Note that “character” can be null. Getters and setters are provided. Do not edit this class.
