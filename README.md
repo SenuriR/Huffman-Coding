@@ -2,9 +2,10 @@
 [CS112 - Data Structures] Compress data files using Huffman Coding
 
 OVERVIEW:
-n this assignment you will simulate activities in a kindergarten classroom.
 
-You will simulate the students on a line, the students on their seats, and the students playing musical chairs.
+--> In this assignment you will simulate activities in a kindergarten classroom.
+
+--> You will simulate the students on a line, the students on their seats, and the students playing musical chairs.
 
 OVERVIEW OF FILES:
 
